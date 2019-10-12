@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "28784829538",
+    "firebase_url": "https://windexapp-acd65.firebaseio.com",
+    "project_id": "windexapp-acd65",
+    "storage_bucket": "windexapp-acd65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28784829538:android:3ef46a11ff8bcacb",
+        "android_client_info": {
+          "package_name": "com.example.android.apidemodinesh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28784829538-aj9ac7vdbir1uv1albaj6ic5c4brgahn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJZ7-PnlbAJpXxOGoqyv0IwXoQ3xxVylc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
